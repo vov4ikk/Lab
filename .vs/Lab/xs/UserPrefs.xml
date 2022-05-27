@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{19568885-B09C-4140-9513-8CB0D6A28AAE}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CarsStore.Core FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Lab PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab/Program.cs">
+    <Files>
+      <File FileName="Lab/WeatherForecast.cs" Line="1" Column="1" />
+      <File FileName="Lab/Controllers/WeatherForecastController.cs" Line="22" Column="43" />
+      <File FileName="CarsStore.Core/Class1.cs" Line="15" Column="33" />
+      <File FileName="CarsStore.Core/ICarServices.cs" Line="8" Column="22" />
+      <File FileName="CarsStore.Core/Car.cs" Line="12" Column="36" />
+      <File FileName="Lab/Program.cs" Line="25" Column="1" />
+      <File FileName="Lab/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="Lab/appsettings.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab" expanded="True">
+            <Node name="CarsStore.Core" expanded="True" />
+            <Node name="Lab" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

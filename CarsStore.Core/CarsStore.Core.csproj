@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="MongoDB.Bson" />
+    <None Remove="NuGet.PackageManagement" />
+    <None Remove="Newtonsoft.Json" />
+    <None Remove="MongoDB.Driver" />
+    <None Remove="Microsoft.Extensions.Options" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="MongoDB.Bson" Version="2.15.1" />
+    <PackageReference Include="NuGet.PackageManagement" Version="6.2.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="MongoDB.Driver" Version="2.15.1" />
+    <PackageReference Include="Microsoft.Extensions.Options" Version="6.0.0" />
+  </ItemGroup>
+</Project>
